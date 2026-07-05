@@ -10,7 +10,7 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-06 02:27:22",
+      "lastCheck": "2026-07-06 02:47:56",
       "detail": "未开播"
     },
     "bilibili_1919216529": {
@@ -75,5 +75,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-06 02:32:06"
+  "updatedAt": "2026-07-06 02:47:56"
 }
