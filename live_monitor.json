@@ -5,13 +5,13 @@
     "huya_31311831": {
       "platform": "huya",
       "roomId": "31311831",
-      "name": "瑞秋儿【能心】直播",
+      "name": "瑞秋儿【能心】",
       "url": "https://www.huya.com/31311831",
-      "status": "live",
+      "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-07 01:03:09",
-      "detail": "直播中"
+      "lastCheck": "2026-07-07 01:40:59",
+      "detail": "已下播"
     },
     "bilibili_1919216529": {
       "platform": "bilibili",
@@ -105,7 +105,15 @@
       "name": "瑞秋儿【能心】直播",
       "event": "live_start",
       "detail": "检测到开播，已发送通知并打开浏览器"
+    },
+    {
+      "time": "2026-07-07 01:40:59",
+      "platform": "huya",
+      "roomId": "31311831",
+      "name": "瑞秋儿【能心】",
+      "event": "live_end",
+      "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-07 01:03:37"
+  "updatedAt": "2026-07-07 01:40:59"
 }
