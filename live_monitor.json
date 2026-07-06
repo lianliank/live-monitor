@@ -16,13 +16,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "新人二路解说",
+      "name": "BLG复仇之战",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-06 10:44:56",
-      "detail": "未开播"
+      "status": "live",
+      "online": 389740,
+      "area": "英雄联盟",
+      "lastCheck": "2026-07-06 11:24:30",
+      "detail": "开播！在线389740人，执行三连操作"
     }
   },
   "logs": [
@@ -73,7 +73,23 @@
       "name": "瑞秋儿【能心】",
       "event": "live_end",
       "detail": "主播已下播"
+    },
+    {
+      "time": "2026-07-06 11:24:30",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "BLG复仇之战",
+      "event": "live_start",
+      "detail": "检测到开播，在线389740人，已触发自动操作"
+    },
+    {
+      "time": "2026-07-06 11:24:42",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "BLG复仇之战",
+      "event": "action_done",
+      "detail": "点赞30次+弹幕+灯牌已注入"
     }
   ],
-  "updatedAt": "2026-07-06 10:44:56"
+  "updatedAt": "2026-07-06 11:24:42"
 }
