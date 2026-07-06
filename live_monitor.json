@@ -16,13 +16,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "BLG复仇之战",
+      "name": "新人二路解说",
       "url": "https://live.bilibili.com/1919216529",
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-06 16:24:22",
-      "detail": "已下播"
+      "lastCheck": "2026-07-06 16:29:26",
+      "detail": "未开播"
     }
   },
   "logs": [
@@ -99,5 +99,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-06 16:24:22"
+  "updatedAt": "2026-07-06 16:29:26"
 }
