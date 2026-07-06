@@ -5,13 +5,13 @@
     "huya_31311831": {
       "platform": "huya",
       "roomId": "31311831",
-      "name": "瑞秋儿【能心】",
+      "name": "瑞秋儿【能心】直播",
       "url": "https://www.huya.com/31311831",
-      "status": "offline",
+      "status": "live",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-06 18:45:33",
-      "detail": "未开播"
+      "lastCheck": "2026-07-06 18:53:33",
+      "detail": "开播！已打开浏览器"
     },
     "bilibili_1919216529": {
       "platform": "bilibili",
@@ -97,7 +97,15 @@
       "name": "BLG复仇之战",
       "event": "live_end",
       "detail": "主播已下播"
+    },
+    {
+      "time": "2026-07-06 18:53:33",
+      "platform": "huya",
+      "roomId": "31311831",
+      "name": "瑞秋儿【能心】直播",
+      "event": "live_start",
+      "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-06 18:52:04"
+  "updatedAt": "2026-07-06 18:53:33"
 }
