@@ -18,11 +18,11 @@
       "roomId": "1919216529",
       "name": "BLG复仇之战",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "live",
-      "online": 496291,
-      "area": "英雄联盟",
-      "lastCheck": "2026-07-06 16:19:16",
-      "detail": "直播中，496291人在看"
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-06 16:24:22",
+      "detail": "已下播"
     }
   },
   "logs": [
@@ -89,7 +89,15 @@
       "name": "BLG复仇之战",
       "event": "action_done",
       "detail": "点赞30次+弹幕+灯牌已注入"
+    },
+    {
+      "time": "2026-07-06 16:24:22",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "BLG复仇之战",
+      "event": "live_end",
+      "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-06 16:19:16"
+  "updatedAt": "2026-07-06 16:24:22"
 }
