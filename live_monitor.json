@@ -10,8 +10,8 @@
       "status": "live",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-06 18:53:33",
-      "detail": "开播！已打开浏览器"
+      "lastCheck": "2026-07-06 18:55:34",
+      "detail": "直播中"
     },
     "bilibili_1919216529": {
       "platform": "bilibili",
@@ -107,5 +107,5 @@
       "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-06 18:53:33"
+  "updatedAt": "2026-07-06 18:55:34"
 }
