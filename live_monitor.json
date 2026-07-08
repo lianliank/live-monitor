@@ -1,6 +1,6 @@
 {
   "title": "直播监控中心",
-  "createdAt": "2026-07-08",
+  "createdAt": "2026-07-09",
   "platforms": {
     "bilibili_1919216529": {
       "platform": "bilibili",
@@ -10,21 +10,10 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-08 23:33:09",
+      "lastCheck": "2026-07-09 00:14:57",
       "detail": "未开播"
-    },
-    "huya_31311831": {
-      "platform": "huya",
-      "roomId": "31311831",
-      "name": "瑞秋儿【能心】直播",
-      "url": "https://www.huya.com/31311831",
-      "status": "live",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-08 23:50:33",
-      "detail": "直播中"
     }
   },
   "logs": [],
-  "updatedAt": "2026-07-08 23:50:33"
+  "updatedAt": "2026-07-09 00:14:57"
 }
