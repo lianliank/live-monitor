@@ -5,15 +5,40 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "新人二路解说",
+      "name": "G2vsT1",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-08 13:36:55",
-      "detail": "未开播"
+      "status": "live",
+      "online": 10273,
+      "area": "英雄联盟",
+      "lastCheck": "2026-07-08 13:42:00",
+      "detail": "开播！在线10273人，执行三连操作"
     }
   },
-  "logs": [],
-  "updatedAt": "2026-07-08 13:36:55"
+  "logs": [
+    {
+      "time": "2026-07-08 13:42:00",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "G2vsT1",
+      "event": "live_start",
+      "detail": "检测到开播，在线10273人，已触发自动操作"
+    },
+    {
+      "time": "2026-07-08 13:42:00",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "G2vsT1",
+      "event": "live_start",
+      "detail": "检测到开播，在线10273人，已触发自动操作"
+    },
+    {
+      "time": "2026-07-08 13:42:14",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "G2vsT1",
+      "event": "action_done",
+      "detail": "点赞30次+弹幕+灯牌已注入"
+    }
+  ],
+  "updatedAt": "2026-07-08 13:42:14"
 }
