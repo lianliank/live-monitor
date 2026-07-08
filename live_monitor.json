@@ -8,23 +8,12 @@
       "name": "撸两把",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 162228,
+      "online": 181900,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-08 20:08:04",
-      "detail": "直播中，162228人在看"
-    },
-    "huya_31311831": {
-      "platform": "huya",
-      "roomId": "31311831",
-      "name": "瑞秋儿【能心】直播",
-      "url": "https://www.huya.com/31311831",
-      "status": "live",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-08 20:10:15",
-      "detail": "直播中"
+      "lastCheck": "2026-07-08 20:13:10",
+      "detail": "直播中，181900人在看"
     }
   },
   "logs": [],
-  "updatedAt": "2026-07-08 20:10:15"
+  "updatedAt": "2026-07-08 20:13:10"
 }
