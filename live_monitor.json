@@ -10,19 +10,10 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-08 17:55:08",
+      "lastCheck": "2026-07-08 18:00:13",
       "detail": "未开播"
     }
   },
-  "logs": [
-    {
-      "time": "2026-07-08 17:55:08",
-      "platform": "bilibili",
-      "roomId": "1919216529",
-      "name": "G2vsT1",
-      "event": "live_end",
-      "detail": "主播已下播"
-    }
-  ],
-  "updatedAt": "2026-07-08 17:55:08"
+  "logs": [],
+  "updatedAt": "2026-07-08 18:00:13"
 }
