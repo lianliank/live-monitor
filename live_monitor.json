@@ -5,15 +5,24 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "G2vsT1",
+      "name": "新人二路解说",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "live",
-      "online": 1081882,
-      "area": "英雄联盟",
-      "lastCheck": "2026-07-08 17:50:01",
-      "detail": "直播中，1081882人在看"
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-08 17:55:08",
+      "detail": "未开播"
     }
   },
-  "logs": [],
-  "updatedAt": "2026-07-08 17:50:01"
+  "logs": [
+    {
+      "time": "2026-07-08 17:55:08",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "G2vsT1",
+      "event": "live_end",
+      "detail": "主播已下播"
+    }
+  ],
+  "updatedAt": "2026-07-08 17:55:08"
 }
