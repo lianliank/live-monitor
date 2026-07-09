@@ -10,12 +10,13 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-09 20:17:28",
+      "lastCheck": "2026-07-09 20:22:33",
       "detail": "未开播"
-    },
-    "huya_31311831": {
-      "platform": "huya",
-      "roomId": "31311831",
+    }
+  },
+  "logs": [],
+  "updatedAt": "2026-07-09 20:22:33"
+}roomId": "31311831",
       "name": "瑞秋儿【能心】",
       "url": "https://www.huya.com/31311831",
       "status": "offline",
@@ -51,5 +52,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-09 20:20:15"
+  "updatedAt": "2026-07-09 20:22:33"
 }
