@@ -2,55 +2,18 @@
   "title": "直播监控中心",
   "createdAt": "2026-07-09",
   "platforms": {
-    "bilibili_1919216529": {
-      "platform": "bilibili",
-      "roomId": "1919216529",
-      "name": "新人二路解说",
-      "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-09 20:22:33",
-      "detail": "未开播"
-    }
-  },
-  "logs": [],
-  "updatedAt": "2026-07-09 20:22:33"
-}roomId": "31311831",
+    "huya_31311831": {
+      "platform": "huya",
+      "roomId": "31311831",
       "name": "瑞秋儿【能心】",
       "url": "https://www.huya.com/31311831",
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-09 20:20:15",
+      "lastCheck": "2026-07-09 20:25:15",
       "detail": "未开播"
     }
   },
-  "logs": [
-    {
-      "time": "2026-07-09 19:46:59",
-      "platform": "bilibili",
-      "roomId": "1919216529",
-      "name": "和前教练解说HLEvsBLG！",
-      "event": "live_end",
-      "detail": "主播已下播"
-    },
-    {
-      "time": "2026-07-09 19:46:59",
-      "platform": "bilibili",
-      "roomId": "1919216529",
-      "name": "和前教练解说HLEvsBLG！",
-      "event": "live_end",
-      "detail": "主播已下播"
-    },
-    {
-      "time": "2026-07-09 20:10:15",
-      "platform": "huya",
-      "roomId": "31311831",
-      "name": "瑞秋儿【能心】",
-      "event": "live_end",
-      "detail": "主播已下播"
-    }
-  ],
-  "updatedAt": "2026-07-09 20:22:33"
+  "logs": [],
+  "updatedAt": "2026-07-09 20:25:15"
 }
