@@ -5,13 +5,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "HLEvsBLG！",
+      "name": "和前教练解说HLEvsBLG！",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 175645,
+      "online": 753740,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-09 16:03:12",
-      "detail": "开播！在线175645人，执行三连操作"
+      "lastCheck": "2026-07-09 16:23:22",
+      "detail": "直播中，753740人在看"
     }
   },
   "logs": [
@@ -40,5 +40,5 @@
       "detail": "点赞30次+弹幕+灯牌已注入"
     }
   ],
-  "updatedAt": "2026-07-09 16:03:24"
+  "updatedAt": "2026-07-09 16:23:22"
 }
