@@ -12,8 +12,19 @@
       "area": "",
       "lastCheck": "2026-07-09 20:25:15",
       "detail": "未开播"
+    },
+    "bilibili_1919216529": {
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "新人二路解说",
+      "url": "https://live.bilibili.com/1919216529",
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-09 20:27:41",
+      "detail": "未开播"
     }
   },
   "logs": [],
-  "updatedAt": "2026-07-09 20:25:15"
+  "updatedAt": "2026-07-09 20:27:41"
 }
