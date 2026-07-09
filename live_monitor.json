@@ -12,8 +12,28 @@
       "area": "英雄联盟",
       "lastCheck": "2026-07-09 18:00:07",
       "detail": "直播中，1078897人在看"
+    },
+    "huya_31311831": {
+      "platform": "huya",
+      "roomId": "31311831",
+      "name": "瑞秋儿【能心】",
+      "url": "https://www.huya.com/31311831",
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-09 18:00:20",
+      "detail": "已下播"
     }
   },
-  "logs": [],
-  "updatedAt": "2026-07-09 18:00:07"
+  "logs": [
+    {
+      "time": "2026-07-09 18:00:20",
+      "platform": "huya",
+      "roomId": "31311831",
+      "name": "瑞秋儿【能心】",
+      "event": "live_end",
+      "detail": "主播已下播"
+    }
+  ],
+  "updatedAt": "2026-07-09 18:00:20"
 }
