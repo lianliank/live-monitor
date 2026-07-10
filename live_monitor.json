@@ -5,13 +5,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "新人二路解说",
+      "name": "做客大姿庄园",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-10 15:59:43",
-      "detail": "未开播"
+      "status": "live",
+      "online": 53716,
+      "area": "英雄联盟",
+      "lastCheck": "2026-07-10 16:04:49",
+      "detail": "开播！在线53716人，执行三连操作"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -25,6 +25,23 @@
       "detail": "未开播"
     }
   },
-  "logs": [],
-  "updatedAt": "2026-07-10 15:59:43"
+  "logs": [
+    {
+      "time": "2026-07-10 16:04:49",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "做客大姿庄园",
+      "event": "live_start",
+      "detail": "检测到开播，在线53716人，已触发自动操作"
+    },
+    {
+      "time": "2026-07-10 16:05:02",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "做客大姿庄园",
+      "event": "action_done",
+      "detail": "点赞30次+弹幕+灯牌已注入"
+    }
+  ],
+  "updatedAt": "2026-07-10 16:05:02"
 }
