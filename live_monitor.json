@@ -8,10 +8,10 @@
       "name": "败决",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 216113,
+      "online": 219406,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-11 21:17:20",
-      "detail": "直播中，216113人在看"
+      "lastCheck": "2026-07-11 21:20:03",
+      "detail": "开播！在线219406人，执行三连操作"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -81,7 +81,23 @@
       "name": "败决",
       "event": "action_done",
       "detail": "点赞30次+弹幕+灯牌已注入"
+    },
+    {
+      "time": "2026-07-11 21:20:03",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "败决",
+      "event": "live_start",
+      "detail": "检测到开播，在线219406人，已触发自动操作"
+    },
+    {
+      "time": "2026-07-11 21:20:15",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "败决",
+      "event": "action_done",
+      "detail": "点赞30次+弹幕+灯牌已注入"
     }
   ],
-  "updatedAt": "2026-07-11 21:17:20"
+  "updatedAt": "2026-07-11 21:20:15"
 }
