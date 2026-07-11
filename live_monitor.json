@@ -5,13 +5,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "败决",
+      "name": "新人二路解说",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "live",
-      "online": 187606,
-      "area": "英雄联盟",
-      "lastCheck": "2026-07-11 23:04:20",
-      "detail": "直播中，187606人在看"
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-11 23:24:21",
+      "detail": "未开播"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -99,5 +99,5 @@
       "detail": "点赞30次+弹幕+灯牌已注入"
     }
   ],
-  "updatedAt": "2026-07-11 23:17:54"
+  "updatedAt": "2026-07-11 23:24:21"
 }
