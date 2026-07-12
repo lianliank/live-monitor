@@ -21,8 +21,8 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-12 21:55:07",
-      "detail": "已下播"
+      "lastCheck": "2026-07-12 22:05:08",
+      "detail": "未开播"
     }
   },
   "logs": [
@@ -171,5 +171,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-12 22:00:15"
+  "updatedAt": "2026-07-12 22:05:08"
 }
