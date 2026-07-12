@@ -8,10 +8,10 @@
       "name": "BLG黄金之路",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 1006444,
+      "online": 970157,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-12 18:11:58",
-      "detail": "直播中，1006444人在看"
+      "lastCheck": "2026-07-12 19:00:47",
+      "detail": "直播中，970157人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -123,5 +123,5 @@
       "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-12 19:00:38"
+  "updatedAt": "2026-07-12 19:00:47"
 }
