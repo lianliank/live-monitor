@@ -10,7 +10,7 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-13 23:42:04",
+      "lastCheck": "2026-07-13 23:57:13",
       "detail": "未开播"
     },
     "huya_31311831": {
@@ -21,7 +21,7 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-13 23:40:19",
+      "lastCheck": "2026-07-13 23:45:20",
       "detail": "未开播"
     }
   },
@@ -187,5 +187,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-13 23:42:04"
+  "updatedAt": "2026-07-13 23:57:13"
 }
