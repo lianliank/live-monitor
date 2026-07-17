@@ -5,13 +5,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "新人二路解说",
+      "name": "HLEvsT1",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-07-14 17:41:30",
-      "detail": "未开播"
+      "status": "live",
+      "online": 660143,
+      "area": "英雄联盟",
+      "lastCheck": "2026-07-17 20:41:05",
+      "detail": "直播中，660143人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -195,5 +195,5 @@
       "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-17 20:40:06"
+  "updatedAt": "2026-07-17 20:41:05"
 }
