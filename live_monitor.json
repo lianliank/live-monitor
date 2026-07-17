@@ -8,10 +8,10 @@
       "name": "HLEvsT1",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 395492,
+      "online": 361013,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-18 00:10:21",
-      "detail": "直播中，395492人在看"
+      "lastCheck": "2026-07-18 00:15:25",
+      "detail": "直播中，361013人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -195,5 +195,5 @@
       "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-18 00:15:05"
+  "updatedAt": "2026-07-18 00:15:25"
 }
