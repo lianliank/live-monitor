@@ -7,11 +7,11 @@
       "roomId": "1919216529",
       "name": "KC大战LCK",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "live",
-      "online": 602278,
-      "area": "英雄联盟",
-      "lastCheck": "2026-07-19 01:12:06",
-      "detail": "直播中，602278人在看"
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-19 01:32:22",
+      "detail": "已下播"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -209,7 +209,15 @@
       "name": "HLEvsT1",
       "event": "live_end",
       "detail": "主播已下播"
+    },
+    {
+      "time": "2026-07-19 01:32:22",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "KC大战LCK",
+      "event": "live_end",
+      "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-19 01:15:09"
+  "updatedAt": "2026-07-19 01:32:22"
 }
