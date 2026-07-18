@@ -5,13 +5,13 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "KC大战LCK",
+      "name": "新人二路解说",
       "url": "https://live.bilibili.com/1919216529",
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-19 01:32:22",
-      "detail": "已下播"
+      "lastCheck": "2026-07-19 02:12:02",
+      "detail": "未开播"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -219,5 +219,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-19 02:10:11"
+  "updatedAt": "2026-07-19 02:12:02"
 }
