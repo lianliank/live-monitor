@@ -8,10 +8,10 @@
       "name": "KC大战LCK",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 407470,
+      "online": 564398,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-19 00:40:17",
-      "detail": "直播中，407470人在看"
+      "lastCheck": "2026-07-19 01:07:00",
+      "detail": "直播中，564398人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -21,7 +21,7 @@
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-07-19 00:59:04",
+      "lastCheck": "2026-07-19 01:00:04",
       "detail": "未开播"
     }
   },
@@ -211,5 +211,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-19 00:59:04"
+  "updatedAt": "2026-07-19 01:07:00"
 }
