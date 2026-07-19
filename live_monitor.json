@@ -7,11 +7,11 @@
       "roomId": "1919216529",
       "name": "许哥美金之路",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "live",
-      "online": 434147,
-      "area": "英雄联盟",
-      "lastCheck": "2026-07-20 00:01:43",
-      "detail": "直播中，434147人在看"
+      "status": "offline",
+      "online": 0,
+      "area": "",
+      "lastCheck": "2026-07-20 00:06:49",
+      "detail": "已下播"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -241,7 +241,15 @@
       "name": "瑞秋儿【能心】直播",
       "event": "live_start",
       "detail": "检测到开播，已发送通知并打开浏览器"
+    },
+    {
+      "time": "2026-07-20 00:06:49",
+      "platform": "bilibili",
+      "roomId": "1919216529",
+      "name": "许哥美金之路",
+      "event": "live_end",
+      "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-20 00:01:43"
+  "updatedAt": "2026-07-20 00:06:49"
 }
