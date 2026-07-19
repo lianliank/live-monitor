@@ -8,10 +8,10 @@
       "name": "许哥美金之路",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 505602,
+      "online": 475138,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-19 22:09:32",
-      "detail": "直播中，505602人在看"
+      "lastCheck": "2026-07-19 22:14:37",
+      "detail": "直播中，475138人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -227,5 +227,5 @@
       "detail": "检测到开播，已发送通知并打开浏览器"
     }
   ],
-  "updatedAt": "2026-07-19 22:10:14"
+  "updatedAt": "2026-07-19 22:14:37"
 }
