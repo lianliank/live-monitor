@@ -8,10 +8,10 @@
       "name": "T1vsGENG",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 35735,
+      "online": 101445,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-19 18:02:06",
-      "detail": "直播中，35735人在看"
+      "lastCheck": "2026-07-19 18:07:10",
+      "detail": "直播中，101445人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -219,5 +219,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-07-19 18:06:15"
+  "updatedAt": "2026-07-19 18:07:10"
 }
