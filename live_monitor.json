@@ -8,10 +8,10 @@
       "name": "我来了",
       "url": "https://live.bilibili.com/1919216529",
       "status": "live",
-      "online": 295592,
+      "online": 311102,
       "area": "英雄联盟",
-      "lastCheck": "2026-07-31 15:31:02",
-      "detail": "直播中，295592人在看"
+      "lastCheck": "2026-07-31 15:36:07",
+      "detail": "直播中，311102人在看"
     },
     "huya_31311831": {
       "platform": "huya",
@@ -283,5 +283,5 @@
       "detail": "点赞30次+弹幕+灯牌已注入"
     }
   ],
-  "updatedAt": "2026-07-31 15:31:02"
+  "updatedAt": "2026-07-31 15:36:07"
 }
