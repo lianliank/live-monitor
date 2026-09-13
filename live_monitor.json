@@ -5,24 +5,24 @@
     "bilibili_1919216529": {
       "platform": "bilibili",
       "roomId": "1919216529",
-      "name": "新人二路解说",
+      "name": "WBGvsIG",
       "url": "https://live.bilibili.com/1919216529",
-      "status": "offline",
-      "online": 0,
-      "area": "",
-      "lastCheck": "2026-08-14 08:07:17",
-      "detail": "未开播"
+      "status": "live",
+      "online": 816907,
+      "area": "英雄联盟",
+      "lastCheck": "2026-08-16 19:18:02",
+      "detail": "直播中，816907人在看"
     },
-    "huya_31311831": {
+    "huya_33001": {
       "platform": "huya",
-      "roomId": "31311831",
+      "roomId": "33001",
       "name": "瑞秋儿【能心】",
-      "url": "https://www.huya.com/31311831",
+      "url": "https://www.huya.com/33001",
       "status": "offline",
       "online": 0,
       "area": "",
-      "lastCheck": "2026-08-14 08:01:42",
-      "detail": "已下播"
+      "lastCheck": "2026-09-13 08:42:14",
+      "detail": "未开播"
     }
   },
   "logs": [
@@ -355,5 +355,5 @@
       "detail": "主播已下播"
     }
   ],
-  "updatedAt": "2026-08-14 08:07:17"
+  "updatedAt": "2026-09-13 08:42:14"
 }
